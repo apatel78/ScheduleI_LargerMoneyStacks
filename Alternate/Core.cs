@@ -3,11 +3,10 @@ using HarmonyLib;
 using System.Reflection.Emit;
 using ScheduleOne.UI.Items;
 
-
-[assembly: MelonInfo(typeof(ScheduleOne_LargerMoneyStacks.LargerMoneyStacks), "ScheduleOne_LargerMoneyStacks", "1.0.0", "Apatel78", null)]
+[assembly: MelonInfo(typeof(LargerMoneyStacks_Alternate.LargerMoneyStacks), "LargerMoneyStacks_Alternate", "1.0.1", "Apatel78", null)]
 [assembly: MelonGame("TVGS", "Schedule I")]
 
-namespace ScheduleOne_LargerMoneyStacks
+namespace LargerMoneyStacks_Alternate
 {
     public class LargerMoneyStacks : MelonMod
     {

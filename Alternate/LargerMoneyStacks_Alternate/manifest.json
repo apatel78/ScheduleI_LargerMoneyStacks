@@ -1,0 +1,8 @@
+{
+    "name": "LargerMoneyStacks",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/apatel78/ScheduleI_LargerMoneyStacks",
+    "description": "Increases the money stack maximum size from 1000 to 99,999",
+    "dependencies": [
+    ]
+}
